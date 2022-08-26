@@ -22,7 +22,7 @@ title: KUBASOVISUAL
 email: alankubasov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yeah making stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "alankubasov.github.io" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kubasovisual
 github_username:  alankubasov
