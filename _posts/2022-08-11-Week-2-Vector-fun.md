@@ -11,14 +11,14 @@ Ahhh vectors, what a way to start my javascript exploration. Learning theory suc
 
 Here is an exaple of what I managed to do by myself. Impressive I know, thanks.
 
-<iframe src="https://editor.p5js.org/s3849484/full/PInQszzmu"></iframe>
+<iframe width=720 height=720  src="https://editor.p5js.org/s3849484/full/PInQszzmu"></iframe>
 
 
 
 Here is me absolutely disfiguring Thomas' work
 
 
-<iframe src="https://editor.p5js.org/s3849484/full/NCvw0NkmH"></iframe>
+<iframe width=720 height=720  src="https://editor.p5js.org/s3849484/full/NCvw0NkmH"></iframe>
 
 I had no clue what I was doing. 
 
