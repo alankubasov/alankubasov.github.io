@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Got The blog working! Web Audio and Canvas API"
+title:  "Got The blog working! Web Audio and Canvas API - week 1"
 date:   2022-08-26 
 categories: RMIT CCS
 ---

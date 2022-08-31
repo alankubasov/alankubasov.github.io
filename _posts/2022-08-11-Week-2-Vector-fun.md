@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vector Heaven"
+title:  "Testing the Grounds - Week 2"
 date:   2022-08-11
 categories: RMIT CSS
 ---
@@ -40,4 +40,4 @@ Follow me for next weeks adventure, where I hopefully learn how to blog properly
 
 Here is me playing wit more vectors and animations + paths within P5
 
-<iframe width=576, height=324  src="https://editor.p5js.org/s3849484/full/jFBW3kSGE"></iframe>
+<iframe width=576, height=324 src="https://editor.p5js.org/s3849484/full/jFBW3kSGE"></iframe>

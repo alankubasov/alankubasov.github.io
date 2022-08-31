@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The biggest info dump of my life, my brain is a toilet"
+title:  "The biggest info dump of my life, my brain is a toilet - Week 3"
 date:   2022-08-18
 categories: RMIT CSS
 ---
