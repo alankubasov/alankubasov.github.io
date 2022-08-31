@@ -26,7 +26,18 @@ But what I did learn was how JavaScript works and got a better understanding of 
 
 I thought I had an understanding of code but apparently I didn't. From being lost I now understand how code comments work, print & log, frameCounts and Loops, Variables, Colour codes, X and Y positioning, Randoms and Iterations and now getting myself to solidify that knowledge and experience/play around with arrays, noise and animations. 
 
+Framecounts are interesting to me if I can control them, I could make flashing screens or constantly change the vectors, colours or images that appear on screen. Maybe compiling a few PNGs that are frame animated I could make a gif like structure inside P5.
+
+Random is great for getting a little wild, I can plug it into lines or repeating vector shapes to create some wild visuals. 
+
 I have a basic understanding of frameCount and how it makes it into a conditional logic in JS. 
 
 
 Follow me for next weeks adventure, where I hopefully learn how to blog properly. 
+
+
+
+
+Here is me playing wit more vectors and animations + paths within P5
+
+<iframe width=576, height=324  src="https://editor.p5js.org/s3849484/full/jFBW3kSGE"></iframe>
