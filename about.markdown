@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, my name is Alan Kubasov, a 21 year old, 3rd year uni student.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am on multiple platforms with the name of KUBASOVISUAL where I upload all my creative works and experiences. From video editing on youtube, to 3D artwork on ArtStation. Feel free to check it out!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a pathway student, starting from Dip. of Digital Media Technologies, to Advanced Dip. of Screen and Media. Now Studying Bach. of Design (Digital Media)
 
+I am currently working at a motorwear store as a social media manager. 
 
-[jekyll-organization]: https://github.com/jekyll
+My skillsets vary, but coding is definately a weakness.
+
+Always eager to learn.
