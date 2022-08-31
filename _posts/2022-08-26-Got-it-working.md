@@ -7,20 +7,15 @@ categories: RMIT CCS
 
 # Lets get it 
 
-Testing testing testing Testing testing testing Testing testing testing Testing testing testing 
+Testing out the embedding feature for a sketch!
 
 <iframe width=720 height=720 src="https://editor.p5js.org/s3849484/full/RAbL14opd"></iframe>
 
 
 Today we learned about how to integrate and buffer audio into web, using different variables and methods. For example on click commands and array buffers. finding the audio, passing it onto the function and using the playback rate. 
 
-document.body.style.margin   = 0
-document.body.style.overflow = `hidden`
-document.body.bgColor        = `tomato`
+Even though I missed two classes which was detrimental, I managed to familirise myself with using API's and plugging them into HTML, as well as using javascript without P5js, using sound API (which I plan to use in my future project) and the many different creative applications I can use them for.  
 
-
-<canvas id = example_0> </canvas>
-<script>
 
 
 // the onclick property takes a function
