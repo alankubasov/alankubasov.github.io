@@ -5,10 +5,15 @@ date:   2022-08-20
 categories: RMIT CCS
 ---
 
-Hello and welcome to my first properly created blog where I showcase to you my sketch. 
+
+
 I did miss two weeks of content but managed to start everything from the ground up and continously learning JavaScript. 
 
-<iframe width=576 height=324 src="https://editor.p5js.org/s3849484/full/FZx3eqiUc"></iframe>
+Today we learned about how to integrate and buffer audio into web, using different variables and methods. For example on click commands and array buffers. finding the audio, passing it onto the function and using the playback rate. 
+
+Even though I missed two classes which was detrimental, I managed to familirise myself with using API's and plugging them into HTML, as well as using javascript without P5js, using sound API (which I plan to use in my future project) and the many different creative applications I can use them for.  
+
+
 
 
 During Week 4 we learnt about Web API (which specifies how to plug one piece of software into another piece 
