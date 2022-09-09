@@ -10,7 +10,9 @@ categories: RMIT CCS
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.js"></script>
 
 
+Using classes to make arrays
 
+<iframe src="https://editor.p5js.org/s3849484/full/MZ03-ou6F"></iframe>
 
 
 Here is an example of recursion, where the frame calls upon a link to display within it.
@@ -28,3 +30,6 @@ Here is an example of recursion, where the frame calls upon a link to display wi
         recursion_frame.src = `https://alankubasov.github.io` + path
     }
 </script>
+
+Pretty neat huh?
+
