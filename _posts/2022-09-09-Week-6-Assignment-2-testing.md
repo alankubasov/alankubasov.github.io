@@ -7,13 +7,22 @@ categories: RMIT CCS
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.js"></script>
 
+
+
+
+
+
+
+<iframe  id='recursion'></iframe>
+
 <script>
-
-anime({
-  targets: '.css-prop-demo .el',
-  left: '240px',
-  backgroundColor: '#FFF',
-  borderRadius: ['0%', '50%'],
-  easing: 'easeInOutQuad'
-});
-
+    const recursion_frame = document.getElementById ('recursion')
+    recursion_frame.width = recursion_frame.parentNode.scrollWidth
+    recursion_frame.height = recursion_frame.width
+    const i = !location.search ? 1 :
+      Number (location.search.split ("?").pop ()) + 1
+    if (i < 12) {
+        const path = `/rmit/ccs/2022/09/09/Week-6-Assignment-2-testing.html?${ i }`
+        recursion_frame.src = `https://alankubasov.github.io` + path
+    }
+</script>
