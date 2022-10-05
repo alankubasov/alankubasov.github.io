@@ -5,6 +5,8 @@ date:   2022-09-10
 categories: RMIT CCS
 ---
 
+Let's see if my code below pops up and works
+
 
 <canvas id=onpointermove_example></canvas>
 

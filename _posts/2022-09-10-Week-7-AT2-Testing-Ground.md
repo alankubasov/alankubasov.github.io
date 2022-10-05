@@ -26,7 +26,7 @@ Let's see if this works.
     div.width = div.parentNode.scrollWidth
     div.height = div.width * 9 / 16
     div.style.height = `${ div.height }px`
-    div.style.backgroundColor = `turquoise`
+    div.style.backgroundColor = `#f4f4f4`
 
     // making a square pink div
     const square = document.createElement (`div`)
@@ -36,8 +36,8 @@ Let's see if this works.
     square.style.position = `relative`
 
     // using the style.transform property to move the div
-    const trans_x = `translateX(${ div.width /2 - 50 }px)`
-    const trans_y = `translateY(${ div.height/2 - 50 }px)`
+    const trans_x = `translateX(${ div.width /2 - 55 }px)`
+    const trans_y = `translateY(${ div.height/2 - 40 }px)`
     square.style.transform = `${ trans_x } ${ trans_y }`
 
     // attaching the square div to the outer div
@@ -50,11 +50,11 @@ Let's see if this works.
 
             // remember the s at the end of targets!
             targets: square,
-            duration: 3000,
+            duration: 3400,
 
             // this will rotate the div 
             // via its style.transform property
-            rotate: `315deg`,
+            rotate: `345deg`,
 
             // this will scale the div
             // via its style.transform property
