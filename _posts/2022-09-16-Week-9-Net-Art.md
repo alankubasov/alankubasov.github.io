@@ -5,11 +5,10 @@ date:   2022-09-10
 categories: RMIT CCS
 ---
 
-Let's see if my code below pops up and works
+Let's see if my code below pops up and works.my anime js should be directly under this text.
 
-If nothing pops up then I have my P5js project up and running too. 
 
-<iframe src="https://editor.p5js.org/s3849484/full/lHDyKynlZ"></iframe>
+<script src='https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js'></script>
 
 <canvas id=onpointermove_example></canvas>
 
@@ -108,6 +107,26 @@ If nothing pops up then I have my P5js project up and running too.
 
 
 
-<script src='https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js'></script>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+If nothing pops up then I have my P5js project up and running too. 
+
+<iframe src="https://editor.p5js.org/s3849484/full/lHDyKynlZ"></iframe>
+
+
+This is something I also managed to create, a generative art piece.
+If I knew a method to combine these two, I would've done it.
+<iframe src="https://editor.p5js.org/s3849484/full/mMEx04_ut"></iframe>
 
