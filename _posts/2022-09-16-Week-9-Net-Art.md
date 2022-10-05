@@ -123,10 +123,12 @@ Let's see if my code below pops up and works.my anime js should be directly unde
 
 If nothing pops up then I have my P5js project up and running too. 
 
-<iframe src="https://editor.p5js.org/s3849484/full/lHDyKynlZ"></iframe>
+<iframe  width=720 height=656 src="https://editor.p5js.org/s3849484/full/lHDyKynlZ"></iframe>
+
 
 
 This is something I also managed to create, a generative art piece.
 If I knew a method to combine these two, I would've done it.
-<iframe src="https://editor.p5js.org/s3849484/full/mMEx04_ut"></iframe>
+
+<iframe  width=700 height=600 src="https://editor.p5js.org/s3849484/full/mMEx04_ut"></iframe>
 
